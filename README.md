@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning TypeScript
-
+🌱 I’m currently learning ReactJs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-kakadiya/) 
