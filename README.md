@@ -7,6 +7,7 @@ Hey there👋! I'm Abhi, a backend developer with 1 year of experience committed
 
 ## side projects
 
+- [Drevo.ai](https://tregoai-web-deshboard.vercel.app/explore) - a specialized social media platform for content creators to plan, generate, and publish content with AI assistance.
 - [Bm2Pay](https://www.bm2pay.com/) - a platform for offering comprehensive payment solutions for merchants and businesses worldwide. 
 - [PageIt](https://play.google.com/store/apps/details?id=com.pageit.app&pli=1) - a social media platform where users can follow their preferred cities, update information relevant to those cities, and post and view various content.
 - [BypassAI](https://bypassai.io/) - a platform to rewrites AI content into human-like text. Guaranteed plagiarism-free & undetectable by AI detectors.
