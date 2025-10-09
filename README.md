@@ -2,6 +2,7 @@ Hey there👋! I'm Abhi, a backend developer with 2 years of experience committe
 
 ## what i do
 
+- Currently learning frontend libraries and tools.
 - Mostly develop with Python, Flask, Bash Scripting, AWS, and PostgresSQL.
 - Contributing in development of High-quality Products.
 
