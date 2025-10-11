@@ -17,7 +17,7 @@ check out my [portfolio](https://abhi-kakadiya.xyz) to see more.
 
 ## want to connect?
 
-- website: [abhi-kakadiya.xyz](https://abhi-kakadiya.xyz)
+- website: [abhi-kakadiya.cv](https://abhi-kakadiya.cv)
 - email: [contact@abhi-kakadiya.xyz](mailto:contact@abhi-kakadiya.xyz)
 
-interested in collaboration? feel free to [drop me an email](mailto:contact@abhi-kakadiya.xyz) or take a look at my [cv](https://abhi-kakadiya.xyz) for more details about my experience
+interested in collaboration? feel free to [drop me an email](mailto:contact@abhi-kakadiya.cv) or take a look at my [cv](https://abhi-kakadiya.cv) for more details about my experience
