@@ -18,6 +18,6 @@ check out my [portfolio](https://abhi-kakadiya.cv) to see more.
 ## Want to connect?
 
 - website: [abhi-kakadiya.cv](https://abhi-kakadiya.cv)
-- email: [contact@abhi-kakadiya.xyz](mailto:contact@abhi-kakadiya.cv)
+- email: [contact@abhi-kakadiya.cv](mailto:contact@abhi-kakadiya.cv)
 
 Interested in collaboration? feel free to [drop me an email](mailto:contact@abhi-kakadiya.cv) or take a look at my [cv](https://abhi-kakadiya.cv) for more details about my experience
