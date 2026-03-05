@@ -1,4 +1,4 @@
-Hey there👋! I'm Abhi, a backend developer with 2 years of experience committed to creating excellent products and learning via development and experimentation. 
+Hey there👋! I'm Abhi, a backend developer with 1.5 years of experience committed to creating excellent products and learning via development and experimentation. 
 
 ## What i do
 
