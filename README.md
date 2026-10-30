@@ -17,7 +17,5 @@ check out my [portfolio](https://abhikakadiya.cv) to see more.
 
 ## Want to connect?
 
-- website: [abhi-kakadiya.cv](https://abhikakadiya.cv)
-- email: [contact@abhi-kakadiya.cv](mailto:contact@abhikakadiya.cv)
-
-Interested in collaboration? feel free to [drop me an email](mailto:contact@abhikakadiya.cv) or take a look at my [cv](https://abhikakadiya.cv) for more details about my experience
+- website: [abhikakadiya.cv](https://abhikakadiya.cv)
+- email: [contact@abhikakadiya.cv](mailto:contact@abhikakadiya.cv)
